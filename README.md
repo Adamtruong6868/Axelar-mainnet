@@ -1,4 +1,7 @@
 # Axelar-mainnet
+### Hardware requirement
+#### CPU 8, Ram 32G - 64G, SSD 800G (For both mainnet + Testnet in 1 server)
+
 ### 1. Setup validator name
 ```php
 MONIKER="Your-name_VNBnode"
