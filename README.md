@@ -1,6 +1,7 @@
 # Axelar-mainnet
-### Hardware requirement
-#### CPU 8, Ram 32G - 64G, SSD 800G (For both mainnet + Testnet in 1 server)
+### 0. Preparation: 
+#### Hardware requirement: CPU 8, Ram 32G - 64G, SSD 800G (For both mainnet + Testnet in 1 server)
+#### OS: Ubuntu 22.04
 
 ### 1. Setup validator name
 ```php
